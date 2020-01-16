@@ -1,0 +1,1 @@
+body{width:100vw;height:100vh;overflow:hidden}canvas{width:100vw;height:100vh;position:absolute;flex:1}.control{display:flex;position:absolute}.control p{color:#000}#p-image .control{display:flex;flex-direction:column;justify-content:space-between;align-items:center}#p-image .control .t-begin{color:red}

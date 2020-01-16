@@ -1,0 +1,14 @@
+<ion-view view-title="动画" cache-view="false">
+  <ion-content scroll='false'>
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide" ng-repeat="data in list">
+          <div class="canvas" id="{{data.id}}"></div>
+          <div class="control">
+            <p>{{data.id}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>
