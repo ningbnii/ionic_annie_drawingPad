@@ -22,3 +22,6 @@ canvas {
   align-items: center; }
   #p-image .control .t-begin {
     color: red; }
+
+#drawingpadPage {
+  background: #4d4d4d; }
